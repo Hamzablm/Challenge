@@ -9,7 +9,7 @@ End Date: 09-09-2020
 [Walid Zbiri](https://twitter.com/ZbiriWalid)
 ### Rules
 This Challenge have 3 rules:  
-* Tweet every day what you've done. 
+* Tweet every day. 
 * The tweet needs to be something you've worked on or something you've learned during your day.  
 * If you didn't tweet you'll invite all of your friends that participated in the challenge and pay for a dinner.
 
