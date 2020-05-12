@@ -1,5 +1,5 @@
 # Challenges 🚀
-My friends and I decided to start to compete and challenge each others. This README contains all rules for each challenge:
+My friends and I decided to enroll in coding challenges. The goal of these challenges is to inspire and support each others. This README contains all rules for each challenge:
 
 ## 100 Days of Code
 Start Date: 01-06-2020  
@@ -15,7 +15,7 @@ This Challenge have 3 rules:
 
 ## Blogging
 Start Date: 01-06-2020  
-End Date: 09-09-2020
+End Date: Till you retire
 ### Participants
 [Hamza Belmellouki](https://twitter.com/HamzaLovesJava)  
 [Walid Zbiri](https://twitter.com/ZbiriWalid)  
@@ -23,7 +23,7 @@ End Date: 09-09-2020
 [Mohammed Elhamra](https://twitter.com/ElhamraMohamed)  
 [Abdennacer EL-Maalem](https://twitter.com/ElhamraMohamed)  
 ### Rules
-This Challenge have the 3 rules:  
-* Once enrolled you'll publish a blog every sunday for your whole life. 
+This Challenge have 3 rules:  
+* Once enrolled you'll publish a blog every sunday. 
 * To withdraw from the challenge you'll have to pay 200dh.
 * If you didn't publish your blog for a sunday you'll pay 200 dh.(Note that you can continue in the challenge but you'll have to pay if you lose)
