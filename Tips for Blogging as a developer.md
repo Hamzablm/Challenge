@@ -1,21 +1,21 @@
 ## Ressources:
-[Geeksblabla Live with mohammed aboullaite](https://www.facebook.com/geeksblabla/videos/655858025264119/?v=655858025264119)
-[The 32 Best Google Docs Add-ons](https://zapier.com/blog/best-google-docs-addons/)
-[My Time-Tested SEO-Driven Blog Post Template](https://docs.google.com/document/d/1RNl7c5gojzbQSUGDrCGNEFTk-zu-DDlkdMcRUuTnONw/edit?fbclid=IwAR1T22gCccFCEg_N2r-80It81MMnwfRVliFuMb5BKlSZ5yKPdjlXx1nyFD4)
+[Geeksblabla Live with mohammed aboullaite](https://www.facebook.com/geeksblabla/videos/655858025264119/?v=655858025264119)  
+[The 32 Best Google Docs Add-ons](https://zapier.com/blog/best-google-docs-addons/)  
+[My Time-Tested SEO-Driven Blog Post Template](https://docs.google.com/document/d/1RNl7c5gojzbQSUGDrCGNEFTk-zu-DDlkdMcRUuTnONw/edit?fbclid=IwAR1T22gCccFCEg_N2r-80It81MMnwfRVliFuMb5BKlSZ5yKPdjlXx1nyFD4)  
 [Upload Free Image or Cover without copyright](https://unsplash.com/t/technology) 
 
 ## motivation:
-** self-branding in your portfolio that’s mean to create a lot of opportunities for yourself like platform: LinkedIn  
+* self-branding in your portfolio that’s mean to create a lot of opportunities for yourself like platform: LinkedIn  
 
-** expose yourself as an expert in your domain.
+* expose yourself as an expert in your domain.
 
-** sharing knowledge.  
+* sharing knowledge.  
 
-** improve network 
+* improve network 
 
-** demonstrate your expertise (wa5a rir jabha ) 
+* demonstrate your expertise (wa5a rir jabha ) 
 
-** improve your communication with your teams or other developers 
+* improve your communication with your teams or other developers 
 
 ## How to find a topic that you will be blogging in 5 points :
 1. when you working on some projects.
