@@ -19,9 +19,9 @@ End Date: 09-09-2020
 ### Participants
 [Hamza Belmellouki](https://twitter.com/HamzaLovesJava)  
 [Walid Zbiri](https://twitter.com/ZbiriWalid)  
-[Anoir Asmai](https://twitter.com/AnouarAsmai)  
-[Mohammed Mlhamra](https://twitter.com/ElhamraMohamed)  
-[Abdenasser Maalem](https://twitter.com/ElhamraMohamed)  
+[Anouar Asmai](https://twitter.com/AnouarAsmai)  
+[Mohammed Elhamra](https://twitter.com/ElhamraMohamed)  
+[Abdennacer EL-Maalem](https://twitter.com/ElhamraMohamed)  
 ### Rules
 This Challenge have the 3 rules:  
 * Once enrolled you'll publish a blog every sunday for your whole life. 
