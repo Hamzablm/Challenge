@@ -29,4 +29,4 @@ This Challenge have 3 rules:
 * If you didn't publish your blog for a sunday you'll pay 200 dh.(Note that you can continue in the challenge but you'll have to pay if you lose)
 
 ## Participate
-Everyone is welcome to join. The fee is optional, but most us decided to bet. We have have a discord server where we share our blogs and stuff we did today. If you want to grow and learn with us don't hesitate to contact me on [twitter](https://twitter.com/HamzaLovesJava) so I can add you in the gang.
+Everyone is welcome to join. The fee is optional, but most us decided to bet. We have a discord server where we share our blogs and stuff we did today. If you want to grow and learn with us don't hesitate to contact me on [twitter](https://twitter.com/HamzaLovesJava) so I can add you in the gang.
