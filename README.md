@@ -15,7 +15,7 @@ This Challenge have 3 rules:
 
 ## Blogging
 Start Date: 01-06-2020  
-End Date: Till you retire
+End Date: At least one year (01-06-2021)
 ### Participants
 [Hamza Belmellouki](https://twitter.com/HamzaLovesJava)  
 [Walid Zbiri](https://twitter.com/ZbiriWalid)  
