@@ -6,11 +6,8 @@
 
 ## Motivation:
 * Self-branding (Expose yourself as an expert in your domain)
-
 * Improve your communication with your teams or other developers
-
 * Sharing knowledge
-
 * Improving your network
 
 ## Find Inspiration :
@@ -31,7 +28,6 @@
 
 ## Some Tips :rocket: :
 * push your blog into platform IT([Medium](),[Dev.to](),...) or group IT([DevC_facebook](https://www.facebook.com/groups/DevC.Casablanca/),[#100daysOfCode_Twitter](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click),[LinkedIn_post](https://www.linkedin.com/feed/)……)
-
 * blogging with English basic or technique is the best way rather than French or Darija Due to the Rich of the Audience.
 
 
