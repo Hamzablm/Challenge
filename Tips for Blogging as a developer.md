@@ -27,10 +27,5 @@
 9. Get feedback from your friends  
 
 ## Some Tips :rocket: :
-* push your blog into platform IT([Medium](),[Dev.to](),...) or group IT([DevC_facebook](https://www.facebook.com/groups/DevC.Casablanca/),[#100daysOfCode_Twitter](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click),[LinkedIn_post](https://www.linkedin.com/feed/)……)
-* blogging with English basic or technique is the best way rather than French or Darija Due to the Rich of the Audience.
-
-
-
-
- 
+* Push your blog into platform IT([Medium](),[Dev.to](),...) or group IT([DevC_facebook](https://www.facebook.com/groups/DevC.Casablanca/),[#100daysOfCode_Twitter](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click),[LinkedIn_post](https://www.linkedin.com/feed/)……)
+* Blogging with english is the best way rather than French or Darija Due to the Rich of the Audience.
